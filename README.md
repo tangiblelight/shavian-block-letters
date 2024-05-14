@@ -1,4 +1,4 @@
-All the 48 shavian letters on blue background are added, mimicing the Discord `:regional_indicator_x:` emojis. Images are named by their shavian letter name, for example `:regional_indicator_pip:`
+All the 48 shavian letters on blue background are added, mimicking the Discord `:regional_indicator_x:` emojis. Images are named by their shavian letter name, for example `:regional_indicator_pip:`
 
 `:regional_indicator_dot:` is the namer dot on a blue background.
 
